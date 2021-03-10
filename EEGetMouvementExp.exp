@@ -1,5 +1,5 @@
-<ver>22</ver>
-<efn>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\EEGetMouvementExp.exp</efn>
+<ver>20.3</ver>
+<efn>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\EEGetMouvementExp.exp</efn>
 <author></author>
 <con>
 <pause>P</pause>
@@ -23,7 +23,6 @@
 <ddi>0</ddi>
 <dds>
 <icm_profile></icm_profile>
-<orient>0</orient>
 <use_icm>0</use_icm>
 </dds>
 <ddv>Primary Display Driver</ddv>
@@ -41,12 +40,12 @@
 <lfn></lfn>
 </docs>
 <dp_list></dp_list>
-<dsd>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\Stimuli</dsd>
+<dsd>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\Stimuli</dsd>
 <dwm>0</dwm>
 <dxv>8</dxv>
 <efs>
-<filename>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\EEGetMouvement.sce</filename>
-<filename>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\ScenarioTestRedrawBox.sce</filename>
+<filename>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\EEGetMouvement.sce</filename>
+<filename>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\ScenarioTestRedrawBox.sce</filename>
 </efs>
 <exclusive_mouse>1</exclusive_mouse>
 <exp_version></exp_version>
@@ -125,7 +124,7 @@
 <idt>0</idt>
 <ilc>0</ilc>
 <ip_chans></ip_chans>
-<lfd>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\LogFiles</lfd>
+<lfd>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\LogFiles</lfd>
 <lnb>2</lnb>
 <lno>3</lno>
 <log>
@@ -155,7 +154,27 @@
 <minpv></minpv>
 <nam>EEGetMouvement</nam>
 <one_processor>2</one_processor>
-<oports></oports>
+<oports>
+<p>
+<ama>0</ama>
+<ami>0</ami>
+<at>0</at>
+<dpw>50</dpw>
+<dsdi>0</dsdi>
+<dsi>0</dsi>
+<dsn>Data port</dsn>
+<igm>0</igm>
+<il>0</il>
+<ivm>0</ivm>
+<mtype>dig</mtype>
+<piai>LPT1</piai>
+<pian>Parallel Port</pian>
+<pihpn>LPT1</pihpn>
+<pindex>2</pindex>
+<rs>1</rs>
+<rt>0</rt>
+</p>
+</oports>
 <out_encrypt_key></out_encrypt_key>
 <pi_list></pi_list>
 <plat>1</plat>
@@ -173,9 +192,26 @@
 <spr></spr>
 <sps></sps>
 </parameters>
-<piai>COM5</piai>
+<piai>COM1</piai>
 <pian>Serial Port</pian>
-<pihpn>COM5</pihpn>
+<pihpn>COM1</pihpn>
+</device>
+<device>
+<parameters>
+<cts>0</cts>
+<dsrin>0</dsrin>
+<dsrout>0</dsrout>
+<dtr>disable</dtr>
+<rts>disable</rts>
+<set_fifo>1</set_fifo>
+<spd></spd>
+<spp></spp>
+<spr></spr>
+<sps></sps>
+</parameters>
+<piai>COM3</piai>
+<pian>Serial Port</pian>
+<pihpn>COM3</pihpn>
 </device>
 </port_devices>
 <rdl>
@@ -229,22 +265,7 @@
 <device>
 <device_type>3</device_type>
 <dx_device_type>0</dx_device_type>
-<name>HID Keyboard Device</name>
-</device>
-<device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>HID Keyboard Device 1</name>
-</device>
-<device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>HID Keyboard Device 2</name>
-</device>
-<device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>Standard PS/2 Keyboard</name>
+<name>Standard 101/102-Key or Microsoft Natural PS/2 Keyboard with HP QLB</name>
 </device>
 <device>
 <abs_axis>
@@ -286,161 +307,7 @@
 <dx_device_type>0</dx_device_type>
 <max_raw_pos>65535</max_raw_pos>
 <min_raw_pos>0</min_raw_pos>
-<name>PS/2 Compatible Mouse</name>
-</device>
-<device>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Wheel</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<device_type>2</device_type>
-<dx_device_type>0</dx_device_type>
-<max_raw_pos>65535</max_raw_pos>
-<min_raw_pos>0</min_raw_pos>
-<name>HID-compliant mouse</name>
-</device>
-<device>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Wheel</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<device_type>2</device_type>
-<dx_device_type>0</dx_device_type>
-<max_raw_pos>65535</max_raw_pos>
-<min_raw_pos>0</min_raw_pos>
-<name>HID-compliant mouse 1</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 1</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 2</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 3</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Appareil Portable Device Control converti</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 4</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Appareil Portable Device Control converti 1</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 5</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 6</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 7</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 8</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>USB Audio Device</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>HID-compliant consumer control device</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>Intel(R) HID Event Filter 9</name>
+<name>Synaptics SMBus TouchPad</name>
 </device>
 <device>
 <axis>
@@ -474,10 +341,8 @@
 <engine_class></engine_class>
 <lang></lang>
 <mc>0</mc>
-<prerecord>0</prerecord>
 <rw>0</rw>
 <sil>200</sil>
-<srgs></srgs>
 <uwd>0</uwd>
 <vocab></vocab>
 </speech>
@@ -840,7 +705,7 @@
 <offset>2147483670</offset>
 </idv>
 <overrides></overrides>
-<sfn>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\EEGetMouvement.sce</sfn>
+<sfn>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\EEGetMouvement.sce</sfn>
 </sce>
 <sce>
 <idv>
@@ -861,21 +726,17 @@
 <offset>2147483649</offset>
 </idv>
 <overrides></overrides>
-<sfn>D:\Dev\Stage - Logiciel final\Présentation\EEGetMouvement\ScenarioTestRedrawBox.sce</sfn>
+<sfn>C:\Users\manu\Desktop\Emile Savalle\Expe2-main\ScenarioTestRedrawBox.sce</sfn>
 </sce>
 <sct>
 <capture_device>
 <abort_on_max_drops>0</abort_on_max_drops>
 <bps></bps>
 <chan></chan>
-<closest_match>0</closest_match>
-<closest_match_max></closest_match_max>
-<closest_match_min>1, 16, 8000</closest_match_min>
 <do_rec_vol>0</do_rec_vol>
 <freq></freq>
 <ignore_drops>1</ignore_drops>
 <max_drops>250</max_drops>
-<max_rec_dur>60</max_rec_dur>
 <name>None</name>
 <rec_vol>1</rec_vol>
 <show_drops>1</show_drops>
@@ -884,6 +745,7 @@
 <combine>0</combine>
 <ignore>1000</ignore>
 <isr>0</isr>
+<max_rec_dur>60</max_rec_dur>
 <md></md>
 <mio></mio>
 <off_inter>200</off_inter>
