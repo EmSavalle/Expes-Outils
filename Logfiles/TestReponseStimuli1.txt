@@ -1,0 +1,10 @@
+Cible DroiteMain GaucheTrajectoire 1
+Valence Positif
+Longueur 11
+PreparationTraj 70 1Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Droite
+Position 21_-12

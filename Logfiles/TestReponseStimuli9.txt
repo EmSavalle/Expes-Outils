@@ -1,0 +1,9 @@
+Cible Gauche
+Main Gauche
+Trajectoire 1
+Valence Positif
+Longueur 11
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0

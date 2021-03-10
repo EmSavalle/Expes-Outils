@@ -1,0 +1,64 @@
+Cible GaucheMain GaucheTrajectoire 1
+Valence Positif
+Longueur 11
+PreparationTraj 90 0Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Gauche
+Position 21_12
+Reponse 5
+ReactionTime 0
+Son
+Numero 3
+Mouvement Eloignement
+Position 36_20
+Reponse 4
+ReactionTime 0
+Son
+Numero 4
+Mouvement Approche Gauche
+Position 12_21
+Reponse 3
+ReactionTime 0
+Son
+Numero 5
+Mouvement Approche
+Position 7_12
+Reponse 2
+ReactionTime 0
+Son
+Numero 6
+Mouvement Eloignement Droite
+Position 21_12
+Reponse 1
+ReactionTime 0
+Son
+Numero 7
+Mouvement Approche Droite
+Position 14_0
+Reponse 1
+ReactionTime 0
+Son
+Numero 8
+Mouvement Eloignement Droite
+Position 21_-12
+Reponse 1
+ReactionTime 0
+Son
+Numero 9
+Mouvement Droite
+Position 12_-21
+Reponse 4
+ReactionTime 0
+Son
+Numero 10
+Mouvement Eloignement Droite
+Position 0_-41
+Anxiete 5
+Fin
+Trajectoire 2
+Valence Positif
+Longueur 11
+PreparationTraj 70 0

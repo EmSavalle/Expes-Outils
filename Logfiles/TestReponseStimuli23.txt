@@ -1,0 +1,13 @@
+Cible Gauche
+Main Gauche
+Trajectoire 1
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0

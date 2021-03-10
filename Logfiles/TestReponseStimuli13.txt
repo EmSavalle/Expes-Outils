@@ -1,0 +1,118 @@
+Cible Droite
+Main Droite
+Trajectoire 1
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0
+Reponse 4
+ReactionTime 0
+Son
+Numero 3
+Mouvement Eloignement
+Position 24_0
+Reponse 7
+ReactionTime 0
+Son
+Numero 4
+Mouvement Droite
+Position 21_-12
+Reponse 6
+ReactionTime 0
+Son
+Numero 5
+Mouvement Approche
+Position 12_-7
+Reponse 5
+ReactionTime 0
+Son
+Numero 6
+Mouvement Eloignement Droite
+Position 12_-21
+Reponse 6
+ReactionTime 0
+Son
+Numero 7
+Mouvement Eloignement
+Position 21_-36
+Reponse 4
+ReactionTime 0
+Son
+Numero 8
+Mouvement Approche Gauche
+Position 21_-12
+Reponse 3
+ReactionTime 0
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Position 41_0
+Reponse 3
+ReactionTime 0
+Son
+Numero 10
+Mouvement Approche Gauche
+Position 21_12
+Reponse 2
+ReactionTime 0
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Position 21_36
+Reponse 1
+ReactionTime 0
+Anxiete 2
+Fin
+Trajectoire 2
+Valence Negatif
+Longueur 12
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Droite
+Position 36_-20
+Reponse 1
+ReactionTime 0
+Son
+Numero 3
+Mouvement Approche
+Position 21_-12
+Reponse 1
+ReactionTime 0
+Son
+Numero 4
+Mouvement Eloignement Droite
+Position 21_-36
+Reponse 7
+ReactionTime 0
+Son
+Numero 5
+Mouvement Approche
+Position 12_-21
+Reponse 6
+ReactionTime 0
+Son
+Numero 6
+Mouvement Eloignement
+Position 21_-36
+Reponse 5
+ReactionTime 0
+Son
+Numero 7
+Mouvement Droite
+Position 0_-41
+Reponse 4
+ReactionTime 0
+Son
+Numero 8
+Mouvement Approche
+Position 0_-24

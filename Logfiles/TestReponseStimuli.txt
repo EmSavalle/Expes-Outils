@@ -1,0 +1,16 @@
+Cible DroiteMain GaucheTrajectoire 1
+Valence Positif
+Longueur 11
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Droite
+Position 21_-12
+Reponse 4
+ReactionTime 0
+Son
+Numero 3
+Mouvement Eloignement
+Position 36_-20

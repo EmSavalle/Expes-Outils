@@ -1,0 +1,6 @@
+Cible Gauche
+Main Gauche
+Trajectoire 1
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
