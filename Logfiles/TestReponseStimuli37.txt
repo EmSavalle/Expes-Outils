@@ -1,0 +1,779 @@
+Cible Droite
+Main Droite
+Trajectoire 1
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0
+Son
+Numero 3
+Mouvement Eloignement
+Position 24_0
+Son
+Numero 4
+Mouvement Droite
+Position 21_-12
+Son
+Numero 5
+Mouvement Approche
+Position 12_-7
+Son
+Numero 6
+Mouvement Eloignement Droite
+Position 12_-21
+Son
+Numero 7
+Mouvement Eloignement
+Position 21_-36
+Son
+Numero 8
+Mouvement Approche Gauche
+Position 21_-12
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Position 41_0
+Son
+Numero 10
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Position 21_36
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 2
+Valence Negatif
+Longueur 12
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Droite
+Position 36_-20
+Son
+Numero 3
+Mouvement Approche
+Position 21_-12
+Son
+Numero 4
+Mouvement Eloignement Droite
+Position 21_-36
+Son
+Numero 5
+Mouvement Approche
+Position 12_-21
+Son
+Numero 6
+Mouvement Eloignement
+Position 21_-36
+Son
+Numero 7
+Mouvement Droite
+Position 0_-41
+Son
+Numero 8
+Mouvement Approche
+Position 0_-24
+Son
+Numero 9
+Mouvement Approche Gauche
+Position 7_-12
+Son
+Numero 10
+Mouvement Approche Droite
+Position 0_-8
+Son
+Numero 11
+Mouvement Approche
+Position 0_-5
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 3
+Valence Negatif
+Longueur 12
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche Gauche
+Position 12_7
+Son
+Numero 3
+Mouvement Eloignement Droite
+Position 24_0
+Son
+Numero 4
+Mouvement Droite
+Position 21_-12
+Son
+Numero 5
+Mouvement Eloignement Droite
+Position 21_-36
+Son
+Numero 6
+Mouvement Approche
+Position 12_-21
+Son
+Numero 7
+Mouvement Eloignement Droite
+Position 0_-41
+Son
+Numero 8
+Mouvement Approche
+Position 0_-24
+Son
+Numero 9
+Mouvement Approche Gauche
+Position 7_-12
+Son
+Numero 10
+Mouvement Approche
+Position 4_-7
+Son
+Numero 11
+Mouvement Approche
+Position 3_-4
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 4
+Valence Positif
+Longueur 8
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Droite
+Position 36_-20
+Son
+Numero 3
+Mouvement Approche
+Position 21_-12
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Position 41_0
+Son
+Numero 5
+Mouvement Gauche
+Position 36_20
+Son
+Numero 6
+Mouvement Approche Gauche
+Position 12_21
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Position 0_41
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 5
+Valence Positif
+Longueur 13
+PreparationTraj 70 false
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement
+Position 41_0
+Son
+Numero 3
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 4
+Mouvement Gauche
+Position 12_21
+Son
+Numero 5
+Mouvement Eloignement
+Position 21_36
+Son
+Numero 6
+Mouvement Droite
+Position 36_20
+Son
+Numero 7
+Mouvement Approche Droite
+Position 24_0
+Son
+Numero 8
+Mouvement Droite
+Position 21_-12
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Position 41_0
+Son
+Numero 10
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 11
+Mouvement Gauche
+Position 12_21
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 6
+Valence Positif
+Longueur 8
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0
+Son
+Numero 3
+Mouvement Gauche
+Position 12_7
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Position 12_21
+Son
+Numero 5
+Mouvement Gauche
+Position 0_24
+Son
+Numero 6
+Mouvement Eloignement
+Position 0_41
+Son
+Numero 7
+Mouvement Droite
+Position 21_36
+Reponse 4
+Anxiete 2
+Fin
+Trajectoire 7
+Valence Positif
+Longueur 8
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0
+Son
+Numero 3
+Mouvement Approche Droite
+Position 7_-4
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Position 14_0
+Son
+Numero 5
+Mouvement Gauche
+Position 12_7
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Position 12_21
+Son
+Numero 7
+Mouvement Eloignement
+Position 21_36
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 8
+Valence Negatif
+Longueur 9
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche Gauche
+Position 12_7
+Son
+Numero 3
+Mouvement Droite
+Position 14_0
+Son
+Numero 4
+Mouvement Approche
+Position 8_0
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Position 12_7
+Son
+Numero 6
+Mouvement Approche Droite
+Position 8_0
+Son
+Numero 7
+Mouvement Droite
+Position 7_-4
+Son
+Numero 8
+Mouvement Approche Droite
+Position 3_-4
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 9
+Valence Negatif
+Longueur 13
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Position 36_20
+Son
+Numero 3
+Mouvement Approche
+Position 21_12
+Son
+Numero 4
+Mouvement Approche Gauche
+Position 7_12
+Son
+Numero 5
+Mouvement Eloignement
+Position 12_21
+Son
+Numero 6
+Mouvement Approche Gauche
+Position 0_14
+Son
+Numero 7
+Mouvement Eloignement
+Position 0_24
+Son
+Numero 8
+Mouvement Approche Droite
+Position 7_12
+Son
+Numero 9
+Mouvement Eloignement Droite
+Position 21_12
+Son
+Numero 10
+Mouvement Approche Droite
+Position 14_0
+Son
+Numero 11
+Mouvement Droite
+Position 12_-7
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 10
+Valence Negatif
+Longueur 13
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche Droite
+Position 12_-7
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Position 24_0
+Son
+Numero 4
+Mouvement Approche
+Position 14_0
+Son
+Numero 5
+Mouvement Gauche
+Position 12_7
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Position 12_21
+Son
+Numero 7
+Mouvement Eloignement Droite
+Position 36_20
+Son
+Numero 8
+Mouvement Droite
+Position 41_0
+Son
+Numero 9
+Mouvement Approche Droite
+Position 21_-12
+Son
+Numero 10
+Mouvement Approche
+Position 12_-7
+Son
+Numero 11
+Mouvement Approche Droite
+Position 4_-7
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 11
+Valence Negatif
+Longueur 13
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche Gauche
+Position 12_7
+Son
+Numero 3
+Mouvement Droite
+Position 14_0
+Son
+Numero 4
+Mouvement Approche Droite
+Position 7_-4
+Son
+Numero 5
+Mouvement Eloignement
+Position 12_-7
+Son
+Numero 6
+Mouvement Eloignement Droite
+Position 12_-21
+Son
+Numero 7
+Mouvement Gauche
+Position 21_-12
+Son
+Numero 8
+Mouvement Approche Gauche
+Position 14_0
+Son
+Numero 9
+Mouvement Approche
+Position 8_0
+Son
+Numero 10
+Mouvement Eloignement Droite
+Position 12_-7
+Son
+Numero 11
+Mouvement Approche
+Position 7_-4
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 12
+Valence Negatif
+Longueur 9
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Droite
+Position 21_-12
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Position 41_0
+Son
+Numero 4
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 5
+Mouvement Approche Droite
+Position 14_0
+Son
+Numero 6
+Mouvement Droite
+Position 12_-7
+Son
+Numero 7
+Mouvement Approche
+Position 7_-4
+Son
+Numero 8
+Mouvement Approche Droite
+Position 3_-4
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 13
+Valence Negatif
+Longueur 13
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche
+Position 14_0
+Son
+Numero 3
+Mouvement Droite
+Position 12_-7
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Position 24_0
+Son
+Numero 5
+Mouvement Gauche
+Position 21_12
+Son
+Numero 6
+Mouvement Eloignement Droite
+Position 41_0
+Son
+Numero 7
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 8
+Mouvement Eloignement Droite
+Position 41_0
+Son
+Numero 9
+Mouvement Approche Droite
+Position 21_-12
+Son
+Numero 10
+Mouvement Approche
+Position 12_-7
+Son
+Numero 11
+Mouvement Approche Droite
+Position 4_-7
+Reponse 4
+Anxiete 6
+Fin
+Trajectoire 14
+Valence Negatif
+Longueur 9
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement
+Position 41_0
+Son
+Numero 3
+Mouvement Approche Droite
+Position 21_-12
+Son
+Numero 4
+Mouvement Droite
+Position 12_-21
+Son
+Numero 5
+Mouvement Approche Gauche
+Position 12_-7
+Son
+Numero 6
+Mouvement Droite
+Position 7_-12
+Son
+Numero 7
+Mouvement Approche
+Position 4_-7
+Son
+Numero 8
+Mouvement Approche Droite
+Position 0_-5
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 15
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Position 36_20
+Son
+Numero 3
+Mouvement Droite
+Position 41_0
+Son
+Numero 4
+Mouvement Gauche
+Position 36_20
+Son
+Numero 5
+Mouvement Droite
+Position 41_0
+Son
+Numero 6
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 7
+Mouvement Droite
+Position 24_0
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Position 36_20
+Son
+Numero 9
+Mouvement Droite
+Position 41_0
+Son
+Numero 10
+Mouvement Approche Gauche
+Position 21_12
+Son
+Numero 11
+Mouvement Gauche
+Position 12_21
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 16
+Valence Negatif
+Longueur 13
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Droite
+Position 36_-20
+Son
+Numero 3
+Mouvement Droite
+Position 21_-36
+Son
+Numero 4
+Mouvement Gauche
+Position 36_-20
+Son
+Numero 5
+Mouvement Approche
+Position 21_-12
+Son
+Numero 6
+Mouvement Droite
+Position 12_-21
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Position 36_-20
+Son
+Numero 8
+Mouvement Droite
+Position 21_-36
+Son
+Numero 9
+Mouvement Approche Droite
+Position 0_-24
+Son
+Numero 10
+Mouvement Approche
+Position 0_-14
+Son
+Numero 11
+Mouvement Gauche
+Position 7_-12
+Reponse 4
+Anxiete 5
+Fin
+Trajectoire 17
+Valence Negatif
+Longueur 12
+PreparationTraj 90 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Approche Gauche
+Position 12_7
+Son
+Numero 3
+Mouvement Eloignement
+Position 21_12
+Son
+Numero 4
+Mouvement Eloignement Droite
+Position 41_0
+Son
+Numero 5
+Mouvement Approche Droite
+Position 21_-12
+Son
+Numero 6
+Mouvement Eloignement
+Position 36_-20
+Son
+Numero 7
+Mouvement Approche Gauche
+Position 24_0
+Son
+Numero 8
+Mouvement Gauche
+Position 21_12
+Son
+Numero 9
+Mouvement Approche Droite
+Position 14_0
+Son
+Numero 10
+Mouvement Approche Droite
+Position 7_-4
+Son
+Numero 11
+Mouvement Approche Droite
+Position 3_-4
+Reponse 4
+Anxiete 4
+Fin
+Trajectoire 18
+Valence Positif
+Longueur 13
+PreparationTraj 70 true
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Droite
+Position 21_-12
